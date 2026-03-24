@@ -2,8 +2,8 @@
 
 ## Schedule
 
-- Calendar week 43: [Session 01](#session-01)
-- Calendar week 44: [Session 02](#session-02)
+- Calendar week 13: [Session 01](#session-01)
+- Calendar week 14: [Session 02](#session-02)
 
 ## Session 01
 
