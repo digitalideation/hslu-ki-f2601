@@ -7,6 +7,8 @@
   - [Podcast][notebooklm-podcast]
 - ⚔️ Miro Board: _Maurice vs George_
   - [Board][miro-board]
+- ✏️ Board:
+  - [Public Miro board][miro-board]
 
 ## 3.1 Conceptual Introduction — _Perceiving Machines?_
 
@@ -156,3 +158,4 @@ Before moving to the practical activities reflect and debate these questions:
 [criticalai-blue-pill]: https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/ 'Blue pill / red pill — Critical AI'
 [newyorker-andy-clark]: https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark 'The mind‑expanding ideas of Andy Clark — The New Yorker'
 [history-open-source-llms]: https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better 'The history of open‑source LLMs — Substack'
+[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'
