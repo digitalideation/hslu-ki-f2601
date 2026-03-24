@@ -139,8 +139,13 @@
 
 1. The declaration of independance
 
+## Resources
+
+1. [Public Miro board][miro-board]
+
 [alinejad-x]: https://x.com/AlinejadMasih/status/1979867926162280534
 [openai-shopping]: https://help.openai.com/en/articles/11128490-shopping-with-chatgpt-search "Shopping with ChatGPT Search"
 [pluralistic-jackpot]: https://pluralistic.net/2025/08/16/jackpot/?utm_source=chatgpt.com "Pluralistic: LLMs are slot-machines (16 Aug 2025)"
 [ft-ads-x]: https://www.ft.com/content/3bc3a76a-8639-4dbe-8754-3053270e4605 "Elon Musk to introduce ads to X's AI chatbot"
 [arte-ki-doc]: https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/ "KI: Der Tod des Internets"
+[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
