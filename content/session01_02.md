@@ -9,6 +9,9 @@
   - [Official page][pepin-podcast]
   - Audio: [French][philo-fr] / [English][philo-en]
   - [English Transcript][philo-en-transcript]
+- ✏️ Board:
+  - [Public Miro board][miro-board]
+
 
 ## 2.1 Conceptual Introduction — _Unnatural Animals_
 
@@ -81,3 +84,6 @@ Reflect: If AI’s goals and functions are fixed, can it experience human-like f
 [philo-fr]: ../slides/static/vids/philo_fr.mp4 'Audio (French) — Charles Pépin'
 [philo-en]: ../slides/static/vids/philo_en.mp4 'Audio (English) — Charles Pépin'
 [philo-en-transcript]: ../slides/static/vids/philo_en.md 'English transcript — Charles Pépin'
+[miro-board]: https://miro.com/app/board/uXjVGtZoflg=/ 'Miro Board'
+
+
