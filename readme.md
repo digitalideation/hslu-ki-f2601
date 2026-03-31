@@ -138,6 +138,9 @@
 ### Part 4: Practice
 
 1. The declaration of independance
+   - [Fullt text][declaration-text]
+   - [Full video][declaration-video]
+   - [Tracks on the declaration (arte)][declaration-tracks] 
 
 ## Resources
 
@@ -149,3 +152,6 @@
 [ft-ads-x]: https://www.ft.com/content/3bc3a76a-8639-4dbe-8754-3053270e4605 "Elon Musk to introduce ads to X's AI chatbot"
 [arte-ki-doc]: https://www.arte.tv/de/videos/122187-000-A/ki-der-tod-des-internets/ "KI: Der Tod des Internets"
 [miro-board]: https://miro.com/app/board/uXjVGtZoflg=/
+[declaration-text]: https://www.eff.org/cyberspace-independence
+[declaration-video]: https://www.youtube.com/watch?v=3WS9DhSIWR0
+[declaration-tracks]: https://www.youtube.com/watch?v=lNqUztWdZvQ
