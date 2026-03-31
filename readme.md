@@ -140,7 +140,7 @@
 1. The declaration of independance
    - [Fullt text][declaration-text]
    - [Full video][declaration-video]
-   - [Tracks on the declaration (arte)][declaration-tracks] 
+   - [Tracks on cyberspace (Arte)][declaration-tracks] 
 
 ## Resources
 
